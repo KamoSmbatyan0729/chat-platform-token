@@ -35,5 +35,5 @@ A world-class modern chat web application built with Next.js 14, TypeScript, Tai
 
 ### 1. **Clone the project**
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone <https://github.com/KamoSmbatyan0729/chat-platform-token.git>
+cd <chat-platform-token>
